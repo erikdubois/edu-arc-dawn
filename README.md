@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-arc-dawn
 
 The **Arc Dawn** GTK theme family — three light/dark variants of the popular [Arc theme](https://github.com/horst3180/arc-theme), packaged for easy installation on Arch / Kiro. Part of the `~/EDU/` learning series.
